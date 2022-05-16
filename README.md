@@ -7,5 +7,7 @@
 - Progressively seeking new abilities, mostly for fun but no one knows what future holds. 📖🌝
 - I'm confortable speaking portuguese, english and trying to append japanese to this list. 🗺️🗣️
 
--Main Syndra desde a season 0 apenas 💯
+- Main Syndra desde a season 0 apenas 💯
+
+[![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=blkfrz)](https://github.com/blkfrz/github-readme-stats)
 
