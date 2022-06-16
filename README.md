@@ -1,13 +1,7 @@
-### Greetings, Salve, はじめまして！ 👋
+### Greetings, Olá, はじめまして！ 👋
 
 - Currently studying mechatronical engineering at University of Brasília. 🏫🤖
-- Python is love. 🐍🖤
-- If the situation demands it I could go C++. 🤔
-- Very interested on Webscraping, Discord Bots and OCR. 💭
-- Progressively seeking new abilities, mostly for fun but no one knows what future holds. 📖🌝
 - I'm confortable speaking portuguese, english and trying to append japanese to this list. 🗺️🗣️
-
-- Main Syndra desde a season 0 apenas 💯
 
 [![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=blkfrz&count_private=true&show_icons=true)](https://github.com/blkfrz/github-readme-stats)
 
